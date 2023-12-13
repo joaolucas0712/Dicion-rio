@@ -11,13 +11,14 @@
     
 }
 #elemento{
-    width: 52vw;
-    height: 18vw;
+    width: auto;
+    height: auto;
     padding: 15px;
     background-color: #54627B;
     box-shadow: 2px 2px 2px #181c23;
     position: absolute;
     visibility: hidden;
+    margin: 15px;
     
 }
 
@@ -92,10 +93,10 @@ span{
     justify-content: space-around;
 }
 p{
-    font-family: 'Cormorant Garamond', serif;
+    /* font-family: 'Cormorant Garamond', serif;
     font-family: 'DM Serif Display', serif;
     font-family: 'EB Garamond', serif;
-    font-family: 'Playfair Display', serif;
+    font-family: 'Playfair Display', serif; */
     text-shadow: 1px 1px 1px #8698b8;
     text-align: justify;
    
@@ -144,9 +145,9 @@ footer{
 
 #citacoes{
     color: #000;
-    font-family: 'DM Serif Display', serif;
+    /* font-family: 'DM Serif Display', serif;
     font-family: 'EB Garamond', serif;
-    font-family: 'Playfair Display', serif;
+    font-family: 'Playfair Display', serif; */
     text-shadow: 1px 1px 1px #8698b8;
     text-align: justify;
 }
