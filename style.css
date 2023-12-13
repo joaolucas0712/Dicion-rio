@@ -93,11 +93,6 @@ span{
     justify-content: space-around;
 }
 p{
-    /* font-family: 'Cormorant Garamond', serif;
-    font-family: 'DM Serif Display', serif;
-    font-family: 'EB Garamond', serif;
-    font-family: 'Playfair Display', serif; */
-    text-shadow: 1px 1px 1px #8698b8;
     text-align: justify;
    
 }
@@ -145,10 +140,6 @@ footer{
 
 #citacoes{
     color: #000;
-    /* font-family: 'DM Serif Display', serif;
-    font-family: 'EB Garamond', serif;
-    font-family: 'Playfair Display', serif; */
-    text-shadow: 1px 1px 1px #8698b8;
     text-align: justify;
 }
 #conto2{
@@ -172,4 +163,5 @@ footer{
     padding: 5px;
     height: auto;
     display: none;
+    color: #5c687d;
 }
